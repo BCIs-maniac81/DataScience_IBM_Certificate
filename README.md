@@ -1,5 +1,5 @@
 # DataScience_IBM_Certificate <br>
-#### This is my capstone project for IBM Data Science professional Certification <br>
+## This is my capstone project for IBM Data Science professional Certification <br>
 
 ### Notebook 1: Data Collection with APIs. <br>
 ### Notebook 2: Data Collection with Web Scraping technique.<br>
